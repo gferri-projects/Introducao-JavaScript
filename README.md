@@ -19,3 +19,5 @@ prompt - leia
 
 parseInt - tranformar texto em números (int - inteiro)
 
+function - função
+
