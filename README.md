@@ -9,9 +9,9 @@ alert - caixa de texto antes do carregamento do site
 
 // - comentário
 
-document.getElementById (sintaxe apenas letras minusculas não funciona) - mostra na tela um texto através de um Id 
+document.getElementById (sintaxe apenas com letras minúsculas não funciona) - mostra na tela um texto através de um Id 
 
-console.log - exibe apenas na insepção em "console", mais usado para testes
+console.log - exibe apenas na insepção em "console" (mais usado para testes)
 
 var - criar variavel
 
