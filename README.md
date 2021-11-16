@@ -21,3 +21,9 @@ parseInt - tranformar texto em números (int - inteiro)
 
 function - função
 
+substring - posição da string
+
+length - tamanho da string
+
+eval - entende contas matematicas atraves de string
+
