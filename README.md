@@ -1,5 +1,3 @@
-# JavaScript
-[Exercícios com Java Script](https://projetos-juliagranado.github.io/Introducao-JavaScript/)
 # Códigos
 document.write - escreva
 
