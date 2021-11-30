@@ -3,25 +3,25 @@
 
 - document.writeln - escreval (pular uma linha)
 
-alert - caixa de texto antes do carregamento do site
+- alert - caixa de texto antes do carregamento do site
 
-// - comentário
+- // - comentário
 
-document.getElementById (sintaxe apenas com letras minúsculas não funciona) - mostra na tela um texto através de um Id 
+- document.getElementById (sintaxe apenas com letras minúsculas não funciona) - mostra na tela um texto através de um Id 
 
-console.log - exibe apenas na insepção em "console" (mais usado para testes)
+- console.log - exibe apenas na insepção em "console" (mais usado para testes)
 
-var - criar variavel
+- var - criar variavel
 
-prompt - leia
+- prompt - leia
 
-parseInt - tranformar texto em números (int - inteiro)
+- parseInt - tranformar texto em números (int - inteiro)
 
-function - função
+- function - função
 
-substring - posição da string
+- substring - posição da string
 
-length - tamanho da string
+- length - tamanho da string
 
-eval - entende contas matematicas atraves de string
+- eval - entende contas matematicas atraves de string
 
