@@ -1,7 +1,7 @@
 # Códigos
-document.write - escreva
+- document.write - escreva
 
-document.writeln - escreval (pular uma linha)
+- document.writeln - escreval (pular uma linha)
 
 alert - caixa de texto antes do carregamento do site
 
